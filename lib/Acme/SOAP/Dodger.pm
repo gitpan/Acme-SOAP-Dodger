@@ -24,7 +24,7 @@ don't care. I am too busy being a hater.
 use strict;
 use warnings;
 
-our $VERSION = 0.001;
+our $VERSION = 0.002;
 
 use Symbol qw/delete_package/;
 
